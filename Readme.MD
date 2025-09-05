@@ -1,5 +1,5 @@
  # 💫 About Me:
-🔭 Here's My Portfolio (under construction)<br>👯 I’m looking to collaborate on AI/ML<br>🤔 I’m looking for help with Placements in MAANG<br>🌱 I’m currently learning DSA<br>💬 Ask me about AI Updates<br>⚡ Fun fact : I'm a Precisized Overthinker™
+🔭 Here's My Portfolio -under construction<br>👯 I’m looking to collaborate on AI/ML<br>🤔 I’m looking for help with Placements in MAANG<br>🌱 I’m currently learning DSA<br>💬 Ask me about AI Updates<br>⚡ Fun fact : I'm a Precisized Overthinker™
 
 
 ## 🌐 Socials:
